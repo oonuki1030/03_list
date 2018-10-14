@@ -2,8 +2,8 @@
 #include<stdlib.h>
 
 typedef struct list
-{int value;
- struct list *next;
+{
+ int value;
 }List;
 int main(int argc, char *argv[]) 
 {
